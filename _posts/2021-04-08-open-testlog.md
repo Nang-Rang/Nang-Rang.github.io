@@ -2,7 +2,6 @@
 layout: post
 title: 시험
 subtitle: 테스트용
-comments: true
 category: 서양판타지
 permalink: /open_testlog/
 ---
