@@ -15,8 +15,9 @@ author: 낭랑
 navbar-links:
   About: "aboutme" # 이렇게 마크다운 문서를 보여줄 수도 있고 (이 때 .md는 뺀 제목만 씁니다)
   카테고리: "category" # 이렇게 외부 링크로 이어지게 할 수도 있습니다.
-  # Links: 
-  #   - Learn markdown: "https://www.markdowntutorial.com/" # 이렇게 드롭다운 메뉴를 만들 수도 있습니다.
+     - 그림: "그림" # 이렇게 드롭다운 메뉴를 만들 수도 있습니다.
+     - 서양판타지: "서양판타지"
+     - 나인어클락: "나인어클락"
 
 # --- 로고 --- #
 
