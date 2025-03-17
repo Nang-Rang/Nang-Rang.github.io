@@ -2,7 +2,7 @@
 layout: post
 title: 시험
 subtitle: 테스트용
-categories: 서양판타지
+categories: WFant
 permalink: /open_testlog/
 ---
 
