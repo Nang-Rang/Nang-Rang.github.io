@@ -15,8 +15,8 @@ author: 낭랑
 navbar-links:
   About: "갈곳이 없어진 비운의 1차러" # 이렇게 마크다운 문서를 보여줄 수도 있고 (이 때 .md는 뺀 제목만 씁니다)
   Twitter: "https://x.com/Nang__Rang" # 이렇게 외부 링크로 이어지게 할 수도 있습니다.
-  Links: 
-    - Learn markdown: "https://www.markdowntutorial.com/" # 이렇게 드롭다운 메뉴를 만들 수도 있습니다.
+  # Links: 
+  #   - Learn markdown: "https://www.markdowntutorial.com/" # 이렇게 드롭다운 메뉴를 만들 수도 있습니다.
 
 # --- 로고 --- #
 
@@ -41,7 +41,7 @@ social-network-links:
   email: "someone@example.com"
 #  facebook: deanattali
 #  github: daattali
-  twitter: "https://x.com/Nang__Rang"
+  twitter: Nang__Rang
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
