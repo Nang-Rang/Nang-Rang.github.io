@@ -1,7 +1,9 @@
 ---
 layout: post
-title: 공개 로그
-subtitle: 공개 로그는 이렇게 보입니다
+title: 시험
+subtitle: 테스트용
+comments: true
+category: 서양판타지
 permalink: /open_testlog/
 ---
 
