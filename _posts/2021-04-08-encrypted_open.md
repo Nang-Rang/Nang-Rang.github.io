@@ -3,7 +3,7 @@ layout: minimal
 title: 암호화 포스트
 subtitle: 암호화된 공개 포스트입니다.
 comments: true
-category: 서양판타지
+category: WFant
 permalink: /encrypted_open/
 ---
 
